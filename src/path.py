@@ -15,7 +15,7 @@ print(dir) # /Users/~/python_os_path/src
 file = os.path.basename(abs_path)
 print(file) # path.py
 
-# 実行場所のパスの取得
+# 実行場所のパスを取得
 exe_path = os.getcwd()
 print(exe_path) # /Users/~/python_os_path
 
